@@ -21,7 +21,7 @@
   "homepage": "https://github.com/SuperSuperStore/neoGraphStack#readme",
   "dependencies": {
     "@neo4j/graphql": "^2.2.0",
-    "apollo-server": "^3.3.0",
+    "apollo-server": "^3.4.1",
     "graphql": "15.5.1",
     "neo4j-driver": "^4.3.3",
     "@apollo/client": "^3.2.5",
